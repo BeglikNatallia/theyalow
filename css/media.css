@@ -1,0 +1,218 @@
+@media all and (max-width: 640px) {
+    .conteiner {
+        width: 640px;
+        margin: 0 auto;
+    }
+
+    .logo img {
+        width: 40px;
+        height: 39px;
+        margin-top: 11px;
+        margin-left: 5px;
+    }
+
+    .logo h1 {
+        font-size: 19px;
+        margin-top: 20px;
+        margin-bottom: 23px;
+    }
+
+    .navigation {
+        margin-top: 0;
+        box-shadow: none;
+    }
+
+    .navigation li {
+        height: 62px;
+        padding-top: 15px;
+    }
+
+    .navigation li a {
+        font-size: 19px;
+    }
+
+    .birds img {
+        margin-top: 0;
+    }
+
+    .left, .right {
+        display: none;
+    }
+
+    .birds video {
+        width: 640px;
+        margin-left: 0;
+    }
+
+    .circleVideoBirds {
+        left: 289px;
+    }
+
+    .arrowVideoBirds {
+        top: 147px;
+        left: 317px;
+    }
+
+    .video_desktop {
+        display: none;
+    }
+
+    .video_mobile {
+        display: inline-block;
+    }
+
+    .birds p {
+        display: none;
+    }
+
+    .secondPart {
+        height: 174px;
+    }
+
+    .features {
+        border-left: none;
+    }
+
+    .secondPart {
+        height: 174px;
+    }
+
+    .column p {
+        font-size: 23px;
+        padding-top: 25px;
+        padding-bottom: 28px;
+    }
+
+    .column {
+        width: 213px;
+        border-right: none;
+    }
+
+    .firstColumn img {
+        width: 89px;
+        height: 61px;
+    }
+
+    .secondColumn img {
+        width: 67px;
+        height: 69px;
+    }
+
+    .thirdColumn img {
+        width: 68px;
+        height: 69px;
+    }
+
+    .firstColumn {
+        padding: 46px 0 0;
+
+        text-align: center;
+    }
+
+    .secondColumn {
+        padding-top: 38px;
+        text-align: center;
+    }
+
+    .thirdColumn {
+        padding-top: 38px;
+        text-align: center;
+    }
+
+    .thirdPart {
+        background-image: none;
+    }
+
+    .options {
+        display: none;
+    }
+
+    .firstBlock {
+        width: 299px;
+        height: 232px;
+        margin: 8px;
+    }
+
+    .firstBlock p {
+        line-height: 33.31px;
+        letter-spacing: 0.33px;
+        padding: 20px 25px 21px 26px;
+        word-wrap: break-word;
+    }
+
+    .secondBlock {
+        margin: 8px 8px 8px 0;
+    }
+
+    .date, .slider {
+        display: none;
+    }
+
+    .thirdBlock {
+        float: left;
+        background-color: #f5c507;
+        width: 323px;
+    }
+
+    .twitter_message {
+        display: inline-block;
+        background-color: #f5c507;
+    }
+
+    form {
+        display: inline;
+    }
+
+    .list {
+        display: none;
+    }
+
+    .oppotunities {
+        font-size: 39px;
+        letter-spacing: 0.39px;
+        margin: 0 29px 83px 21px;
+    }
+
+    .monitor {
+        margin: 0 24px 55px 57px;
+    }
+
+    .pad, .phone {
+        margin-bottom: 96px;
+    }
+
+    .footerLogo .conteiner .logo img {
+        width: 31px;
+        height: 31px;
+        margin-left: 65px;
+    }
+
+    .footerLogo .conteiner .logo h1 {
+        margin-top: 15px;
+        margin-bottom: 14px;
+        text-shadow: 1px 2px 0 rgba(0, 0, 0, 0.42);
+        font-size: 17px;
+    }
+
+    .ellipse {
+        top: -43px;
+        left: 30px;
+    }
+
+    .oppotunities-info p {
+        top: 9px;
+        left: 36px;
+    }
+
+    .plus {
+        left: 276px;
+    }
+
+    .twitter_plus {
+        display: none;
+    }
+}
+
+
+
+
